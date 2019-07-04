@@ -1,0 +1,41 @@
+body {
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    margin: 0 auto;
+    width: 300px;
+}
+
+h1 {
+    margin:  10px 0 0;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #c93312;
+    font-weight: bold;
+}
+
+h2 {
+    margin: 0 auto 10px;
+    font-weight: normal;
+    font-size: 17px;
+    color: #dc863b;
+}
+
+p {
+    margin: 0;
+    color: #333;
+    font-size: 15px;
+}
+
+.article {
+    margin: 20px 0;
+    background: #faefd1;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.date {
+    margin: 10px 0 0;
+    color: #899da4;
+    text-align: right;
+    font-size: 12px;
+}
